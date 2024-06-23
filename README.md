@@ -1,16 +1,9 @@
 # weather_app_v3
 
-A new Flutter project.
+Зайцев Марк Олегович КЭИ ИСдо-33
 
-## Getting Started
+Тестовое задание Mobile Flutter
 
-This project is a starting point for a Flutter application.
+3-я версия приложения "Погода", сделана за день до дедлайна☠️. Остальные версии, к сожалению, полностью сломались. API Openweather не была реализована из-за региональных ограничений. С другой API я не смог справиться, поэтому взял данные из готового jsona, которой перевел на Dart и сделал WeatherModel. Приложение показывает детальную погоду на сегодня, и последующие дни.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Для запуска приложения рекомендую использовать эмулятор Google Pixel 4a, в противном случае, могут быть ошибки в отображении информации. 
